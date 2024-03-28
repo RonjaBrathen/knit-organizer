@@ -14,8 +14,8 @@ body{
 	color: white;
 	padding: 35px 0 35px 0;
  	background: #FF512F;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(to right, #9fc5e8, #FF512F);  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #9fc5e8, #FF512F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: -webkit-linear-gradient(to right, #9fc5e8, #3d85c6);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #9fc5e8, #3d85c6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
  }
 
 #hero > h1{
@@ -24,14 +24,14 @@ body{
 
 footer{
 	text-align: center;
-	margin-top: 50px;
-	padding-top: 15px;
+	margin-top: 20px;
+	padding-top: 5px;
 	width: 100%;
-	height: 100px;
+	height: 50px;
 	color: white;
-	background: #11998e;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(to right, #38ef7d, #11998e);  /* Chrome 10-25, Safari 5.1-6 */
- 	background: linear-gradient(to right, #38ef7d, #11998e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: #cfe2f3;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #9fc5e8, #cfe2f3;  /* Chrome 10-25, Safari 5.1-6 */
+ 	background: linear-gradient(to right, #9fc5e8, #cfe2f3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 #allNames{
