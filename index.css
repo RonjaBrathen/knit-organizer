@@ -10,7 +10,7 @@ body{
 	min-height: 100vh;
 }
 
-#hero{
+#header{
 	color: white;
 	padding: 35px 0 35px 0;
  	background: #FF512F;  /* fallback for old browsers */
@@ -18,7 +18,7 @@ body{
 	background: linear-gradient(to right, #9fc5e8, #3d85c6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
  }
 
-#hero > h1{
+#header > h1{
 	margin-top: 0;
 }
 
