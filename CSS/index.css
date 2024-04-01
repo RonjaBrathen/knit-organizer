@@ -4,10 +4,7 @@
 	min-height: 100vh;
 }
 
-.dark-mode {
-  background-color: #333; /* Change to your preferred dark mode background color */
-  color: #fff; /* Change to your preferred dark mode text color */
-}
+
 
 
 
@@ -104,7 +101,7 @@ footer{
 	color: red;
 }
 
-.button {
+#button {
 border: none;
   color: white;
   padding: 15px 32px;
@@ -114,4 +111,9 @@ border: none;
   font-size: 16px;
   margin: 4px 2px;
 	
+}
+
+.dark-mode {
+  background-color: black; /* Change to your preferred dark mode background color */
+  color: #fff; /* Change to your preferred dark mode text color */
 }
